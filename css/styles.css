@@ -169,9 +169,9 @@ img {
 
 /* Hero */
 
-.hero-bg {
+.hero {
   padding: 200px 0;
-  min-width: 1600px;
+  max-width: 1600px;
   height: 600px;
   text-align: center;
   letter-spacing: 0.06em;
